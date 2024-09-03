@@ -1,0 +1,4 @@
+.ddev/*
+!.ddev/config.yaml
+
+.idea/
